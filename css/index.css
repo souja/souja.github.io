@@ -1,0 +1,72 @@
+
+a {
+    color: #6a3906;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #6a3906;
+}
+
+textarea {
+    resize: none;
+}
+
+/* pub className
+------------------------------*/
+
+/* Hides from IE-mac \*/
+* html .clearfix {
+    height: 1%;
+}
+
+/* End hide from IE-mac */
+
+.clearfix {
+    _zoom: 1;
+}
+
+.clearfix {
+    display: inline-block;
+}
+
+.clearfix {
+    display: block;
+}
+
+.clearfix:after {
+    content: ".";
+    display: block;
+    height: 0;
+    clear: both;
+    visibility: hidden;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
+
+.text-left {
+    text-align: left;
+}
+

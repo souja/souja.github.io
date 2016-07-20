@@ -1,0 +1,68 @@
+/* reset
+------------------------------*/
+body, h1, h2, h3, h4, h5, h6, hr, p, blockquote, dl, dt, dd, ul, ol,
+li, pre, fieldset, lengend, button, input, textarea, th, td {
+    margin: 0;
+    padding: 0;
+}
+
+input[type="button"], input[type="submit"], input[type="reset"] {
+    -webkit-appearance: none;
+}
+
+textarea {
+    -webkit-appearance: none;
+}
+
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+    content: '';
+    content: none;
+}
+
+blockquote, q {
+    quotes: none;
+}
+
+ul, ol, li {
+    list-style: none;
+}
+
+form {
+    margin: 0;
+}
+
+fieldset, img {
+    border: none;
+}
+
+input {
+    line-height: 150%;
+}
+
+button {
+    cursor: pointer;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+em {
+    font-style: normal;
+}
+
+/* globle set
+------------------------------*/
+body,
+button, input, select, textarea {
+    font-family: microsoft yahei, simsun, Tahoma, Arial, serif;
+    color: #6a3906;
+}
+
+body {
+    text-align: center;
+}

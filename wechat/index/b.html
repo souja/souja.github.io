@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+    <title>Title</title>
+    <link rel="stylesheet" href="../js/stylesheets/jquery.sidr.light.min.css">
+    <script src="../js/jquery-1.10.1.min.js"></script>
+    <script src="../js/jquery.sidr.min.js"></script>
+</head>
+<body>
+<a id="existing-content-menu" href="#existing-content-menu">Existing content</a>
+<a id="remote-content-menu" href="#remote-content-menu">Load remotelly</a>
+<a id="callback-menu" href="#callback-menu">Callback loaded</a>
+
+<header id="demoheader">
+    <h1>Demos &amp; Usage</h1>
+</header>
+
+<div id="demo-content">
+    contextcontextcontextcontextcontextcontextcontextcontextcontext
+</div>
+
+<script>
+    $(document).ready(function() {
+        $('#existing-content-menu').sidr({
+            name: 'sidr-existing-content',
+            source: '#demoheader, #demo-content'
+        });
+        $('#remote-content-menu').sidr({
+            name: 'sidr-remote-content',
+            source: 'http://www.example.com/remote-menu.html'
+        });
+        $('#callback-menu').sidr({
+            name: 'sidr-callback',
+            source: function(name) {
+                return '<h1>' + name + ' menu</h1><p>Yes! You can use a callback too ;)</p>';
+            }
+        });
+    });
+</script>
+</body>
+</html>

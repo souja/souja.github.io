@@ -1,44 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67e7dc4d-39ae-45cf-b2b1-d3d556175aab" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/ab1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/ab2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/ab3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/about_bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/bannerBtn.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/banner_home1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/banner_home2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/banner_home3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/left.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/pdt1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/pdt2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/pdt3.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/pdt4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/pro_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/right.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/scp1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/scp2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/scp3.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/scp4.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/scp5.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/images/scp6.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/a.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/animation.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/h5.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/jquery-1.10.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/jquery.easing.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/resources/js/slide.js" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/css/index.css" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/adapter.css" afterPath="$PROJECT_DIR$/resources/css/adapter.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/css/common.css" afterPath="$PROJECT_DIR$/resources/css/common.css" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/drawer.js" afterPath="$PROJECT_DIR$/resources/js/drawer.js" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/js/index.js" afterPath="$PROJECT_DIR$/resources/js/index.js" />
-    </list>
+    <list default="true" id="67e7dc4d-39ae-45cf-b2b1-d3d556175aab" name="Default" comment="" />
     <ignored path="souja.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,8 +44,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="113" column="36" selection-start-line="113" selection-start-column="36" selection-end-line="113" selection-end-column="36" />
+            <state relative-caret-position="247">
+              <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -179,30 +142,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souja.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souja.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souja.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="souja.github.io" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -292,15 +231,15 @@
       <option name="presentableId" value="Default" />
       <updated>1468982238753</updated>
       <workItem from="1468982239890" duration="2887000" />
-      <workItem from="1470015744390" duration="495000" />
+      <workItem from="1470015744390" duration="2635000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3382000" />
+    <option name="totallyTimeSpent" value="5522000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -403,8 +342,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="113" column="36" selection-start-line="113" selection-start-column="36" selection-end-line="113" selection-end-column="36" />
+        <state relative-caret-position="247">
+          <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
           <folding />
         </state>
       </provider>

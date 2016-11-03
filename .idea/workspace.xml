@@ -1,7 +1,96 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="67e7dc4d-39ae-45cf-b2b1-d3d556175aab" name="Default" comment="" />
+    <list default="true" id="67e7dc4d-39ae-45cf-b2b1-d3d556175aab" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us0.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/us5.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160801180327.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160801180333.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160818100800.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160830154924.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160902155844.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160903231241.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160906202602.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160921180629.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160927181331.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160927181554.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20160927185714.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161008145850.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161010212800.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161011103730.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161019145913.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161019145915.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161020174239.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161020175907.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161025182209.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161025183043.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/video/20161101165238.mp4" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/index.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/index.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/css/animation.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/css/index.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/ab1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/ab2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/ab3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/about_bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/bannerBtn.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/banner_home1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/banner_home2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/banner_home3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/left.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/pdt1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/pdt2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/pdt3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/pdt4.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/pro_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/right.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/scp1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/scp2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/scp3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/scp4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/scp5.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/images/scp6.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/js/drawer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/js/h5.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/js/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/resources/js/slide.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/css/common.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/css/newindex.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/ad_hor.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/banner.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/ico_home.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/ico_more.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/sideBottom.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/sideTop.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/images/testad.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/index/a.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/index/b.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/index/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/jquery-1.10.1.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/jquery.sidr.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/stylesheets/jquery.sidr.bare.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/stylesheets/jquery.sidr.dark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/stylesheets/jquery.sidr.dark.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/stylesheets/jquery.sidr.light.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/wechat/js/stylesheets/jquery.sidr.light.min.css" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/adapter.css" afterPath="$PROJECT_DIR$/css/adapter.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/css/common.css" afterPath="$PROJECT_DIR$/css/common.css" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/js/jquery-1.10.1.min.js" afterPath="$PROJECT_DIR$/js/jquery-1.10.1.min.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/resources/js/jquery.easing.js" afterPath="$PROJECT_DIR$/js/jquery.easing.js" />
+    </list>
     <ignored path="souja.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,7 +111,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="adapter.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/adapter.css">
+        <entry file="file://$PROJECT_DIR$/css/adapter.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
@@ -31,41 +120,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="animation.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/animation.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
+            <state relative-caret-position="397">
+              <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/index.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding />
-            </state>
+      <file leaf-file-name="us1.jpg" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/images/us1.jpg">
+          <provider selected="true" editor-type-id="images">
+            <state />
           </provider>
         </entry>
       </file>
       <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/resources/css/common.css">
+        <entry file="file://$PROJECT_DIR$/css/common.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+            <state relative-caret-position="445">
+              <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -91,9 +167,11 @@
         <option value="$PROJECT_DIR$/index.jsp" />
         <option value="$PROJECT_DIR$/css/adapter.css" />
         <option value="$PROJECT_DIR$/css/common.css" />
+        <option value="$PROJECT_DIR$/resources/css/adapter.css" />
+        <option value="$PROJECT_DIR$/resources/css/index.css" />
+        <option value="$PROJECT_DIR$/js/index.js" />
         <option value="$PROJECT_DIR$/css/index.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/js/index.js" />
       </list>
     </option>
   </component>
@@ -116,7 +194,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -134,6 +212,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -142,10 +222,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souja.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souja.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souja.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="souja.github.io" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="video" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,12 +259,16 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\1zk\souja.github.io\resources" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\1zk\souja.github.io\video" />
+      <recent name="E:\1zk\souja.github.io\images" />
+      <recent name="E:\1zk\souja.github.io\resources\video" />
       <recent name="E:\1zk\souja.github.io" />
       <recent name="H:\0Work\souja.github.io" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\1zk\souja.github.io" />
+      <recent name="E:\1zk\souja.github.io\resources" />
     </key>
   </component>
   <component name="RunManager">
@@ -232,32 +338,34 @@
       <updated>1468982238753</updated>
       <workItem from="1468982239890" duration="2887000" />
       <workItem from="1470015744390" duration="2635000" />
+      <workItem from="1478159039046" duration="917000" />
+      <workItem from="1478160161256" duration="4579000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5522000" />
+    <option name="totallyTimeSpent" value="11018000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24947257" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3297062" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -268,63 +376,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/adapter.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/js/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/index.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="475">
-          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/adapter.css">
+    <entry file="file://$PROJECT_DIR$/css/adapter.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="228">
           <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
@@ -342,8 +394,161 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="121" column="25" selection-start-line="121" selection-start-column="25" selection-end-line="121" selection-end-column="25" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/adapter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/adapter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/animation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4218">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/us1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/us0.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="67" column="1" selection-start-line="67" selection-start-column="1" selection-end-line="67" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/adapter.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="113" column="0" selection-start-line="113" selection-start-column="0" selection-end-line="113" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="69" column="26" selection-start-line="69" selection-start-column="26" selection-end-line="69" selection-end-column="26" />
           <folding />
         </state>
       </provider>

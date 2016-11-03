@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-size: 100%
+}
+
+body, button, input, select, textarea {
+    font: 16px/1.5 Microsoft Yahei, tahoma, Srial, helvetica, sans-serif;
+    outline: none;
+}
+
+ul, ol, li {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+
+a {
+    text-decoration: none;
+    color: #FFF;
+    font-family: "微软雅黑";
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -ms-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+img {
+    border: 0px;
+}
+
+.clear {
+    clear: both;
+}
+
+p, div, strong, a, h1, h2, h3, h4, h5, h6, span {
+    font-family: "微软雅黑"
+}
+
+html, body {
+    overflow-x: hidden;
+}
+
+.animate {
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -ms-transition-duration: 0.5s;
+    transition-duration: 0.5s;
+}
+
+.animate1 {
+    -webkit-transition-duration: 1s;
+    -moz-transition-duration: 1s;
+    -ms-transition-duration: 1s;
+    transition-duration: 1s;
+}
+
+table {
+    border-spacing: 0px;
+    border-collapse: collapse;
+}
+
+tr {
+    cursor: pointer;
+}
+
+input {
+    border: 0;
+}
+
+textarea {
+    resize: none;
+}
+
+.hide {
+    display: none;
+}
+
+.show {
+    display: inline-block;
+}
+
+.showBlock {
+    display: block;
+}
+
+.container1200 {
+    width: 1200px;
+    height: auto;
+    position: relative;
+    margin: auto;
+}
+
+video {
+    width: 240px;
+    height: 320px;
+}
+
+body {
+    background: url("../images/us0.jpg") repeat;
+    background-size: cover;
+    transition: background 1s;
+    -moz-transition: background 1s; /* Firefox 4 */
+    -webkit-transition: background 1s; /* Safari 和 Chrome */
+    -o-transition: background 1s; /* Opera */
+}
+
+.content {
+    width: 975px;
+    margin: 0 auto
+}
